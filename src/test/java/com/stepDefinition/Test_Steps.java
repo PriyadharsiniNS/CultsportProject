@@ -104,6 +104,7 @@ public class Test_Steps {
 //	    Actions a = new Actions(driver);
 //		a.moveToElement(tshirt).click().build().perform();
 //		Thread.sleep(3000);
+//		System.out.println("User clicks on T-shirts Module");
 //	}
 //
 //	@When("User scrolls down")
